@@ -361,3 +361,19 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Markdown files
+*.md
+
+# CSV data files
+MyPostcode/
+
+# SQL scripts
+*.sql
+
+# Azure deployment config
+MyPostcodeApi/Properties/ServiceDependencies/
+MyPostcodeApi/Properties/serviceDependencies.json
+
+# Local dev config
+MyPostcodeApi/appsettings.Development.json
