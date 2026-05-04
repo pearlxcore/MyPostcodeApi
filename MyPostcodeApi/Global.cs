@@ -1,1 +1,1 @@
-﻿global using connection_string = MyPostcodeApi.Model.ConnectionString;
+// Global usings are configured in the .csproj via <ImplicitUsings>enable</ImplicitUsings>
